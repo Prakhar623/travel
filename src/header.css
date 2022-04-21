@@ -1,0 +1,14 @@
+.header{
+    position: absolute;
+    justify-content: space-between;
+    display: flex;
+width: 1366px;
+height: 84px;
+left: 0px;
+top: 10px;
+
+
+}
+.header>h1{
+    color:white;
+}
